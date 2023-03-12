@@ -5,7 +5,6 @@
 I enjoy my life more since I discovered my passion, web development, I love learning new tools, new ways of solving problems, I have a great ability to adapt to changes, and in this time where the world is moving so fast, this is important.
 </p>
 
-<br>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
