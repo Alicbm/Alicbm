@@ -8,7 +8,7 @@ I enjoy my life more since I discovered my passion, web development, I love lear
 <br>
 
 <li> 🌱 I’m currently learning <strong>Full Stack Development</strong></li>
-<li>  💻 All of my projects are available at <a href="https://alicbm.github.io/alicbarandica.github.io/" target="_blank" rel="noreferrer">My Portfolio</a></li>
+<li>  💻 All of my projects are available at <a href="https://portfolio-alicbm.vercel.app/" target="_blank" rel="noreferrer">My Portfolio</a></li>
 <li>💬 Ask me about <strong>JavaScript, CSS, HTML, Typescript, React.Js, MySQL, Bootstrap, Node.js, Express, Docker, Sequelize, Redux Toolkit</strong></li>
 <li>📫 How to reach me <strong>alicmejia175@gmail.com</strong></li>
 
