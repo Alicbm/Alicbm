@@ -1,23 +1,82 @@
-<h1 align="center">Hi 👋, I'm Alic Barandica</h1>
-<h4 align="center">"We are what repeatedly do. Excellence, therefore, is not an act but a habit".</h4>
+<h1 align="center">Hola 👋 soy Alic / Analista de Datos ✨ </h1> 
 
-<p align='center'>
-I enjoy my life more since I discovered my passion, web development, I love learning new tools, new ways of solving problems, I have a great ability to adapt to changes, and in this time where the world is moving so fast, this is important.
-</p>
-
-<br>
-
-<li> 🌱 I’m currently learning <strong>Full Stack Development</strong></li>
-<li>  💻 All of my projects are available at <a href="https://portfolio-alicbm.vercel.app/" target="_blank" rel="noreferrer">My Portfolio</a></li>
-<li>💬 Ask me about <strong>JavaScript, CSS, HTML, Typescript, React.Js, MySQL, Bootstrap, Node.js, Express, Docker, Sequelize, Redux Toolkit</strong></li>
-<li>📫 How to reach me <strong>alicmejia175@gmail.com</strong></li>
-
-<br>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/alic-barandica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alic barandica mejia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alic-barandica/" target="blank"><img align="center" width="150" height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:abarandica1234@gmail.com" target="blank"><img align="center" width="130" height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>  
 </p>
+<br>
+<h2>Sobre mi 😏</h2>
+<!--Intro start-->
+
+<p align="left">
+
+❓ Soy un platzinauta apasionado por la tecnología y los datos
+  
+📈 Economista graduado en la Universidad del Magdalena
+
+📊 Lideré el laboratoorio de analítica de datos de la Universidad del Magdalena, donde asesoré a estudiantes y docentes en herramientas como Python, R y Power BI
+
+💻 Trabajé como Desarrollador FullStack durante un año, donde ayude en la construcción de aplicaciones web.
+
+📫 Contacto: **abarandica1234@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,css,html,js,typescript,nodejs,react,express,mysql,postgresql,git,github,docker,postman,vscode&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+  
+  <tr border="none">
+    <td width="25%" align="center">
+      <p align="center">
+       <a href="https://app.powerbi.com/view?r=eyJrIjoiNWFjMTczZDctZDQ4YS00YzkxLTg1M2UtYzRhYTBiYTM3YTMxIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" title="Go to Source">
+          <img align="center" width=100% height="300" src="https://github.com/user-attachments/assets/2ca828c3-e6db-48d1-81dd-34bbb5425bb0" alt="IMAGEN" /></a>
+        </p>
+      <p align="center">
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNWFjMTczZDctZDQ4YS00YzkxLTg1M2UtYzRhYTBiYTM3YTMxIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7257365348205694976/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      </p> 
+    </td>
+
+  <td width="25%" align="center">
+      <p align="center">
+       <a href="https://github.com/Alicbm/data-exploration/" title="Go to Source">
+          <img align="center" width=100% height="300" src="https://github.com/user-attachments/assets/b076c418-21bb-4093-9a4b-1a5970d3a8cf" alt="IMAGEN" /></a>
+        </p>
+      <p align="center">
+        <a href="https://github.com/Alicbm/data-exploration/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7235277571158913024/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      </p>       
+    </td>
+
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+  </p>
+</div>
+
+<br><br>
+<br><br>
+<br><br>
+
+<h3 align="center">
+  <i>Somos lo que hacemos repetidamente. La excelencia entonces, no es un acto, sino un hábito.</i>
+<h3>
