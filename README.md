@@ -40,8 +40,18 @@
   <tr border="none">
     <td width="25%" align="center">
       <p align="center">
+       <a href="https://app.powerbi.com/view?r=eyJrIjoiMzFiYWYxZjYtMjBmNi00ZGJjLTljODItNDg5YzYzNjNjNTUwIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" title="Go to Source">
+          <img align="center" width=100% height="280" src="https://github.com/user-attachments/assets/d28d892b-2157-4a8a-b753-e2c1e9944b4f" alt="IMAGEN" /></a>
+        </p>
+      <p align="center">
+        <a href="https://github.com/Alicbm/cepal_scraping" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7279290251473256448/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      </p> 
+    </td>
+    <td width="25%" align="center">
+      <p align="center">
        <a href="https://app.powerbi.com/view?r=eyJrIjoiNWFjMTczZDctZDQ4YS00YzkxLTg1M2UtYzRhYTBiYTM3YTMxIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" title="Go to Source">
-          <img align="center" width=100% height="300" src="https://github.com/user-attachments/assets/2ca828c3-e6db-48d1-81dd-34bbb5425bb0" alt="IMAGEN" /></a>
+          <img align="center" width=100% height="280" src="https://github.com/user-attachments/assets/2ca828c3-e6db-48d1-81dd-34bbb5425bb0" alt="IMAGEN" /></a>
         </p>
       <p align="center">
         <a href="https://app.powerbi.com/view?r=eyJrIjoiNWFjMTczZDctZDQ4YS00YzkxLTg1M2UtYzRhYTBiYTM3YTMxIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -52,7 +62,7 @@
   <td width="25%" align="center">
       <p align="center">
        <a href="https://github.com/Alicbm/data-exploration/" title="Go to Source">
-          <img align="center" width=100% height="300" src="https://github.com/user-attachments/assets/b076c418-21bb-4093-9a4b-1a5970d3a8cf" alt="IMAGEN" /></a>
+          <img align="center" width=100% height="280" src="https://github.com/user-attachments/assets/b076c418-21bb-4093-9a4b-1a5970d3a8cf" alt="IMAGEN" /></a>
         </p>
       <p align="center">
         <a href="https://github.com/Alicbm/data-exploration/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
